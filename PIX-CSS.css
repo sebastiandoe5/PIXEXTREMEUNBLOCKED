@@ -8,6 +8,16 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: 'Quicksand', 'Open Sans', 'Roboto', sans-serif;
+    text-align: center;
+}
+
+a {
+    font-family: 'Source Sans Pro', 'Open Sans', 'Roboto', sans-serif;
+    text-align: center;
+}
+
 .logo {
     display: block;
     margin-left: auto;
